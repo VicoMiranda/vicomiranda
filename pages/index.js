@@ -21,5 +21,8 @@ export default function Home() {
       <Footer />
     </div>
   )
+Hola1
+//Hola1;
 }
+Hola2
 //Get started by editing <code>pages/index.js</code>; 
