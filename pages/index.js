@@ -24,5 +24,5 @@ export default function Home() {
 Hola1
 //Hola1;
 }
-Hola2
+
 //Get started by editing <code>pages/index.js</code>; 
