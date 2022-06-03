@@ -13,9 +13,9 @@ export default function Home() {
       <main>
         <Header title="Victor Miranda" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+          <!----- Get started by editing <code>pages/index.js</code> ---->
           Auckland University of Technology
+         </p>
       </main>
 
       <Footer />
