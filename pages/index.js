@@ -17,6 +17,8 @@ export default function Home() {
           Auckland University of Technology
          </p>
       </main>
+    /* This is
+a comment */
 
       <Footer />
     </div>
