@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Victor Miranda"  />
+        <Header title="Victor Miranda \n Lecturer"  />
         <p className="description">
           Lecturer  \n
           Auckland University of Technology \n
