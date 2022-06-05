@@ -11,11 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Victor Miranda" '\n' "Lecturer" />
+        <Header title="Victor Miranda Lecturer" />
         <p className="description">
-          Lecturer  \n
-          Auckland University of Technology \n
-          Level 9, WZ Building, City Campus. \n
+          Lecturer  <br>
+          Auckland University of Technology <br>
+          Level 9, WZ Building, City Campus.
          </p>
       </main>
     
