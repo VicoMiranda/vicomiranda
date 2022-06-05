@@ -6,15 +6,16 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Victor Miranda's Homepage</title>
+        <title>VicoMiranda's Homepage </title>
         <link rel="icon" href="/myicon.ico" />
       </Head>
 
       <main>
-        <Header title="Victor Miranda" />
+        <Header title="Victor Miranda" \n Lecturer />
         <p className="description">
- 
+       
           Auckland University of Technology
+          Level 9, WZ Building, City Campus.
          </p>
       </main>
     
