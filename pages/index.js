@@ -13,9 +13,9 @@ export default function Home() {
       <main>
         <Header title="Victor Miranda"  />
         <p className="description">
-          Lecturer
-          Auckland University of Technology
-          Level 9, WZ Building, City Campus.
+          Lecturer  \n
+          Auckland University of Technology \n
+          Level 9, WZ Building, City Campus. \n
          </p>
       </main>
     
