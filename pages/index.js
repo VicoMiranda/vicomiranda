@@ -19,6 +19,11 @@ export default function Home() {
     
    <div>
     <img src="/vico.JPG"/>
+    img {
+   position: absolute;
+   top: 0px;
+   right: 0px;
+   }
     </div>
     
       <main>
