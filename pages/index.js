@@ -5,7 +5,7 @@ import React from "react"
 import vicoo from './vico.JPG'
 
 export default function App() {
-  return(
+  return (
     <div className="App">
     <header className="AppHeader">
     <image src={vicoo} className="slidering"/>
