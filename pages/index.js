@@ -17,13 +17,18 @@ export default function Home() {
         <link rel="icon" href="/myicon.ico" />
       </Head>
     
+    
+    #content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
    <div>
     <img src="/vico.JPG"/>
-    img {
-   position: absolute;
-   top: 0px;
-   right: 0px;
-   }
     </div>
     
       <main>
