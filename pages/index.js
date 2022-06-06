@@ -5,7 +5,7 @@ import test from '@components/test'
 import React from "react"
 import vicoo from './vico.JPG'
 import test2 from './test2'
-
+import about from './about'
 
 export default function Home() {
   return (
