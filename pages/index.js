@@ -14,13 +14,17 @@ export default function Home() {
         <title>VicoMiranda's Homepage </title>
         <link rel="icon" href="/myicon.ico" />
       </Head>
+    
+    <div className="App">
+    <header className="AppHeader">
+    <image src={vicoo} className="slidering"/>
+    </div>
 
       <main>
         <Header title="Victor Miranda" />
         <p className="description">
          Department of Mathematical Sciences <br /> Auckland University of Technology (AUT) <br /> 55 Wellesley Street East <br /> Auckland 1010 <br /> New Zealand.
          </p>
-        <image src={vicoo} className="slidering"/>
       </main>
   
     <div>
