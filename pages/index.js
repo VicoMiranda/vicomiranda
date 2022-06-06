@@ -27,8 +27,9 @@ export default function Home() {
     right: 0px;
 }
 
-   <div>
+   <div id="content">
     <img src="/vico.JPG"/>
+      <div> Some taxt </div>
     </div>
     
       <main>
