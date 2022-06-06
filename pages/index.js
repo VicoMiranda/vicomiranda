@@ -18,9 +18,6 @@ export default function Home() {
       </Head>
     
     
-    #content {
-    position: relative;
-}
 #content img {
     position: absolute;
     top: 0px;
