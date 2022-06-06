@@ -17,7 +17,10 @@ export default function Home() {
         <link rel="icon" href="/myicon.ico" />
       </Head>
     
-
+   <div>
+    <img src="/vico.JPG"/>
+    </div>
+    
       <main>
         <Header title="Victor Miranda" />
         <p className="description">
@@ -25,9 +28,7 @@ export default function Home() {
          </p>
       </main>
   
-     <div>
-    <img src="/vico.JPG"/>
-    </div>
+ 
 
     <div>
        <h1>Home</h1>
