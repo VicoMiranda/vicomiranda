@@ -25,6 +25,7 @@ export default function Home() {
     <div>
        <h1>Hoome</h1>
        <link href="./about.js"/>
+       <p> Just a description </p>
     </div>
     
       <Footer />
