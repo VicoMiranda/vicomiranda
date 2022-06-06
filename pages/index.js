@@ -4,6 +4,14 @@ import Footer from '@components/Footer'
 import React from "react"
 import vicoo from './vico.JPG'
 
+export default function App() {
+  return(
+    <div className="App">
+    <header className="AppHeader">
+    <image src={vicoo} className="slidering"/>
+    </div>
+  );
+}
 
 export default function Home() {
   return (
@@ -22,9 +30,8 @@ export default function Home() {
     
       <Footer />
     </div>
-  )
-Hola1
-//Hola1;
+  );
 }
+
 
 //Get started by editing <code>pages/index.js</code>; 
