@@ -10,10 +10,6 @@ import about from './about'
 export default function Home() {
   return (
     
-     <div>
-    <image src={vicoo}/>
-    </div>
-
 
     <div className="container">
       <Head>
@@ -29,6 +25,10 @@ export default function Home() {
          </p>
       </main>
   
+     <div>
+    <image src={vicoo}/>
+    </div>
+
     <div>
        <h1>Home</h1>
        <link href="./about.js"/>
