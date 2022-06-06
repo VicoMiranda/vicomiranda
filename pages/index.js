@@ -16,7 +16,7 @@ export default function Home() {
           Lecturer 
          </p>
           <p>
-          Lecturer Auckland University of Technology Level 9, WZ Building, City Campus.
+          Lecturer <br /> Auckland University of Technology Level 9, WZ Building, City Campus.
          </p>
       </main>
     
