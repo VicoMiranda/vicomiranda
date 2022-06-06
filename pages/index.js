@@ -16,7 +16,7 @@ export default function Home() {
           Lecturer 
          </p>
           <p>
-          Lecturer <br /> Auckland University of Technology, <br /> Level 9, WZ Building, City Campus.
+          Department of Mathematical Sciences <br /> Auckland University of Technology (AUT) <br /> 55 Wellesley Street East <br /> Auckland 1010 <br /> New Zealand.
          </p>
       </main>
     
