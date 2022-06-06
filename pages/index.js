@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
+import test from '@Components/test'
 import React from "react"
 import vicoo from './vico.JPG'
 
