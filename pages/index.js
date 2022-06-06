@@ -24,7 +24,7 @@ export default function Home() {
   
     <div>
        <h1>Hoome</h1>
-       <Link href="about">Aboutt</Link> 
+       <link href="./about.js"/>
     </div>
     
       <Footer />
