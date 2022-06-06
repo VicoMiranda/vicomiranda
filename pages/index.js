@@ -20,7 +20,7 @@ export default function Home() {
     
    
     <div>
-<div style="float: left">
+<div id="logo">
 <img src="/vico.JPG" />
 </div>
 <div>
