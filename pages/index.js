@@ -20,19 +20,21 @@ export default function Home() {
         <p className="description">
          Department of Mathematical Sciences <br /> Auckland University of Technology (AUT) <br /> 55 Wellesley Street East <br /> Auckland 1010 <br /> New Zealand.
          </p>
+        <image src={vicoo} className="slidering"/>
       </main>
   
     <div>
-       <h1>Hoome</h1>
+       <h1>Home</h1>
        <link href="./about.js"/>
        <p> Just a description </p>
     </div>
+   
   <ul id="menu" class="vertical main">
    <li>Homepage</li>
    <li>Services</li>
    <li>About</li>
    <li>Contact</li>
-</ul>
+  </ul>
     
       <Footer />
     </div>
