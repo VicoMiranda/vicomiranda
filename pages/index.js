@@ -27,6 +27,12 @@ export default function Home() {
        <link href="./about.js"/>
        <p> Just a description </p>
     </div>
+  <ul id="menu" class="vertical main">
+   <li>Homepage</li>
+   <li>Services</li>
+   <li>About</li>
+   <li>Contact</li>
+</ul>
     
       <Footer />
     </div>
