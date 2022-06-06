@@ -26,7 +26,7 @@ export default function Home() {
       </main>
   
      <div>
-    <image src={vicoo}/>
+    <vicoo src={vicoo}/>
     </div>
 
     <div>
