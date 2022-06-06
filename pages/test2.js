@@ -1,4 +1,4 @@
-export default function test() {
+export default function test2() {
  return (
    <main>
    <p> Heeeello
