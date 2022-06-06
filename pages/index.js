@@ -9,16 +9,19 @@ import about from './about'
 
 export default function Home() {
   return (
+    
+        <div className="App">
+    <header className="AppHeader">
+    <image src={vicoo} className="slidering"/>
+    </div>
+
+
     <div className="container">
       <Head>
         <title>VicoMiranda's Homepage </title>
         <link rel="icon" href="/myicon.ico" />
       </Head>
     
-    <div className="App">
-    <header className="AppHeader">
-    <image src={vicoo} className="slidering"/>
-    </div>
 
       <main>
         <Header title="Victor Miranda" />
