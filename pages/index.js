@@ -26,5 +26,13 @@ export default function Home() {
   );
 }
 
+export default function test() {
+ return (
+   <main>
+   <p> Heeeello
+   </p>
+   </main>
+   );
+}
 
 //Get started by editing <code>pages/index.js</code>; 
