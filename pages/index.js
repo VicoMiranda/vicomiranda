@@ -18,11 +18,16 @@ export default function Home() {
       </Head>
     
     
-       
-   <div style="float: left">
-    <img src="/vico.JPG"/>
-      <div> Some text </div>
-    </div>
+   
+    <div>
+<div style="float: left">
+<img src="/vico.JPG" />
+</div>
+<div>
+Text content goes here
+</div>
+</div>
+
     
       <main>
         <Header title="Victor Miranda" />
