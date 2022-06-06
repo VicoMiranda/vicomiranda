@@ -18,13 +18,7 @@ export default function Home() {
       </Head>
     
     
-#content img {
-    position: absolute;
-    top: 0px;
-    right: 0px;
-}
-
-   <div id="content">
+   <div id="logo">
     <img src="/vico.JPG"/>
       <div> Some taxt </div>
     </div>
