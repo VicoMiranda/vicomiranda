@@ -11,7 +11,7 @@ export default function Home() {
   return (
     
      <div>
-    <image src={vicoo} className="slidering"/>
+    <image src={vicoo}/>
     </div>
 
 
