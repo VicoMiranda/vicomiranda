@@ -21,6 +21,11 @@ export default function Home() {
          Department of Mathematical Sciences <br /> Auckland University of Technology (AUT) <br /> 55 Wellesley Street East <br /> Auckland 1010 <br /> New Zealand.
          </p>
       </main>
+  
+    <div>
+       <h1>Hoome</h1>
+       <Link href="about">Aboutt</Link> 
+    </div>
     
       <Footer />
     </div>
