@@ -13,10 +13,7 @@ export default function Home() {
       <main>
         <Header title="Victor Miranda" />
         <p className="description">
-          Lecturer 
-         </p>
-          <p>
-          Department of Mathematical Sciences <br /> Auckland University of Technology (AUT) <br /> 55 Wellesley Street East <br /> Auckland 1010 <br /> New Zealand.
+         Department of Mathematical Sciences <br /> Auckland University of Technology (AUT) <br /> 55 Wellesley Street East <br /> Auckland 1010 <br /> New Zealand.
          </p>
       </main>
     
