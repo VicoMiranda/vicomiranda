@@ -33,3 +33,10 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+
+logo { 
+	position:fixed; 
+	top:0; 
+	left:0; 
+}
