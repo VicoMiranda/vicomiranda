@@ -10,7 +10,7 @@ import about from './about'
 export default function Home() {
   return (
     
-     <div className="App">
+     <div>
     <image src={vicoo} className="slidering"/>
     </div>
 
