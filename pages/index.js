@@ -4,6 +4,7 @@ import Footer from '@components/Footer'
 import test from '@components/test'
 import React from "react"
 import vicoo from './vico.JPG'
+import test from '@pages/test'
 
 
 export default function Home() {
